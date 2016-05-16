@@ -1,1 +1,1 @@
-# testProject
+Figured it was about time to get some Git under my belt.  I've historically been building out on my own or with a very small team and simply haven't had the need for stricter versioning, though I'm immediately thinking of applications for it as well.
